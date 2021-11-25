@@ -1,0 +1,170 @@
+---
+title: "Participación Reflexiva"
+author: "Zarko"
+date: "202020: `r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Semana 7 "Fallas de mercado y el papel del estado"
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+r: Tenia un poco de conocimiento respecto a los impuestos que existen
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+r: Los subsidios y los impuestos son un tema que afecta diariamente a todas las personas, sobre todo los impuestos ya que la mayoría de los impuestos tan altos que se pagan no llegan a ningún lugar donde se puedan entender porque son altos los impuestos. Se podría mejorar bajando muchos de los impuestos que existen hoy en día ya que muchos de ellos van dirigidos a personas que realmente no tienen ningún aporte en el país
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+r: Uno de los más importantes son todas las maneras que se pueden analizar y poner distintos puntos de vista dentro de los impuestos como subsidios, generar debate que logre llegar a un punto de equilibrio donde se pueda obtener un avance y estipular o pensar en algún cambio.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal? No hubo trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos? No hubo trabajo grupal
+
+
+## Semana 11 "Economia laboral"
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+r: Entendia un poco la pobreza y casi nada la desigualdad
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+r: La desigualdad y la pobreza está presente en todas las personas dependiendo de donde se mire. Por esto es importante que se entienda que la desigualdad no siempre es mala, solo determina la diferencia en un país. Con respecto a la pobreza se podría bajar generando avances en la economía del país y de esta manera disminuir el número de pobreza que hay.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+r: Pensar en estos factores nos lleva a un punto donde se pueden desarrollar pensamientos de como poder hacer cambios, como poder llevar a cabo una idea que pueda ayudar, qué factores hay que considerar para poder tener avances que funcionen, debatir qué proyecto o pensamiento es el que los llevará a concretar esa idea.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal? No hubo trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos? No hubo trabajo grupal
+
+
+## Semana 3 "Funcionamiento de los mercados"
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+r: Entendia como funcionaba la demanda
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+r: La demanda tiene una gran importancia dentro del funcionamiento de los mercados ya que gracias a esto es que los mercados pueden funcionar. Al momento que no existe demanda de algún bien o producto, este mismo deja de tener un valor ya que no está demandado el producto y no hay nadie que lo necesite ya sea por su valor, uso o utilidad. Uno puede ocupar la demanda a su favor ya que al momento de analizar algún producto puede fijarse bien en la demanda que tiene ese producto y de esto sacar conclusiones para ver si el producto puede ser algún objeto rentable para vender o para sacarle provecho en el dia a dia.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+r: Aprender cómo funciona la demanda puede suponer un gran avance al momento de pensar o aplicar este conocimiento cuando uno trabaja, entender cómo funciona puede ayudar a dar una mejor visión cuando el tema esté relacionado con esta variable, también como poder tener un desarrollo mejor tomando en cuenta esta variable.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal? No hubo trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos? No hubo trabajo grupal
+
+
+## Semana 4 "Funcionamiento de los mercados"
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+r: Entendia como funcionaba la oferta
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+r: Este otro concepto es el que complementa a la demanda, la oferta es la cantidad de bienes y servicios ofrecidos por un productor, por estos productores es que tenemos una oferta en el mercado de los distintos productos y bienes, estos nos sirven en el dia a dia y se van equilibrando junto a la demanda para entregarnos un resultado óptimo de la oferta de un producto.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+r: Aprender que es la oferta y su relación con la demanda nos ayuda a tener un mayor dominio sobre el funcionamiento de los mercados ya que al entender cómo funciona la oferta y demanda podemos aplicarlo para poder entender cómo está funcionando el mercado y tener un análisis mucho más certero de lo que se está estudiando con respecto al mercado.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal? No hubo trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos? No hubo trabajo grupal
+
+
+## Semana 12 "Variables macroeconomicas"
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+r: Entendia un poco los efectos del desempleo
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+r: El desempleo es una variable que afecta mucho a nivel personal como a nivel social ya que el desempleo afecta la vida de muchas personas, esto ya que al ser despedidas pierden una gran parte de la fuente de sus ingresos lo que genera que bajen los ingresos del hogar. Existen muchas variables las cuales afectan a tomar este tipo de decisiones pero algo bueno es que al ser desempleadas tienen un finiquito el cual ayuda de cierta manera para poder sustentarse por un tiempo mientras se busca otro empleo.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+r: Entender cómo funciona el desempleo puede ayudar a calcular de una manera más certera cómo afecta el desempleo a las personas, los factores que lo provocan, pero también factores que a veces los ayudan o benefician y como afecta de manera económica a una empresa.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal? No hubo trabajo grupal
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos? No hubo trabajo grupal
+
+
+## Semana 13 "Crecimiento y finanzas"
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+r: No tenia conocimientos previos
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+r:  El crecimiento económico es un factor muy importante en el desarrollo del país ya que con él se mide el avance desde distintos aspectos en los cuales se desenvuelve el país. En esto siempre está presente el riesgo el cual conlleva una serie de factores los cuales pueden asegurar un crecimiento importante como también un decrecimiento importante.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+r: Es importante poder analizar los factores de crecimiento para establecer una proyección en un país, es importante conocer y revisar los riesgos que existen para que exista un crecimiento más pronunciado ya que gracias al crecimiento es como un país puede ser mucho mas optimo para vivir.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal? 
+
+r: Aprender y ganar conocimiento respecto a la actividad
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+r: Entender los riesgos que existen para poder tener un análisis lo más certero posible y de esta manera tener un mejor desarrollo de la actividad
+
+
+## Semana 10 "Fallas de mercado y el papel del estado"
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+r: No tenia conocimientos previos
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+r: Las externalidades tienen un papel importante dentro del desarrollo de la oferta y demanda, pero las externalidades pueden ser tanto positivas como negativas. Estas definen una situación donde los costos o beneficios de consumo o producción no se reflejan en su precio de mercado.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+r: Es clave poder entender las externalidades para así poder resolverlas al momento de que se nos presente un problema y de esta manera poder tener un análisis lo más beneficioso posible
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+r: Entender como es que piensa el resto y obtener resultados de esos pensamientos.
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+r: Poder entender los costos y beneficios al momento de tomar una decisión ya que cada movimiento determinaba que tan lejos o qué tan cerca estábamos de poder tener un buen rendimiento en la actividad.
+
+
+
+
+
+
